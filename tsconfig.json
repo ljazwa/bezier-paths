@@ -11,7 +11,7 @@
         "allowJs": true,
         "noEmit": true,
         "module": "ES6",
-        "types": ["reflect-metadata", "jest"],
+        "types": ["reflect-metadata"],
         "outDir": "./dist/",
         "lib": ["es2018", "dom"],
         "jsx": "react"
